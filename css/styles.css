@@ -557,6 +557,10 @@ select {
 	background: url('../images/services-icon-bg-red.png') center center no-repeat;
 }
 
+.cards-1 .card-icon.green {
+	background: url('../images/services-icon-bg-green.png') center center no-repeat;
+}
+
 .cards-1 .card-icon .fas,
 .cards-1 .card-icon .far {
 	margin-right: 0.75rem;
